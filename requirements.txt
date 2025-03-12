@@ -1,0 +1,8 @@
+asyncio
+os
+json
+subprocess
+whisper
+pydub
+openai
+edge_tts
