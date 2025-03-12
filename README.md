@@ -18,7 +18,7 @@
 
 1. 克隆项目到本地：
     ```sh
-    git clone https://github.com/yourusername/videoTransformer.git
+    git clone https://github.com/zijinjun/videoTransformer.git
     cd videoTransformer
     ```
 
